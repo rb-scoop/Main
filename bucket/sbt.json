@@ -1,10 +1,10 @@
 {
-    "version": "1.7.1",
+    "version": "1.8.0",
     "description": "A build tool for Scala, Java, and more",
     "homepage": "https://www.scala-sbt.org",
     "license": "BSD-3-Clause",
-    "url": "https://github.com/sbt/sbt/releases/download/v1.7.1/sbt-1.7.1.zip",
-    "hash": "2ae094410b518acc46d9cdcdc4e138b4c27cd5040fc91d48d2d823fe84984294",
+    "url": "https://github.com/sbt/sbt/releases/download/v1.8.0/sbt-1.8.0.zip",
+    "hash": "fb52ea0bc0761176f3e38923ae5df556fba372895efb98a587f706d1ae805897",
     "extract_dir": "sbt",
     "bin": "bin\\sbt.bat",
     "checkver": {

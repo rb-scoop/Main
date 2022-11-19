@@ -1,5 +1,5 @@
 {
-    "version": "2.2.6",
+    "version": "2.2.10",
     "description": "A high performance Common Lisp compiler.",
     "homepage": "http://www.sbcl.org/",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "Please restart your command line for SBCL_HOME to take effect. Please consider installing http://www.quicklisp.org/",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/sbcl/sbcl/2.2.6/sbcl-2.2.6-x86-64-windows-binary.msi",
-            "hash": "sha1:b8835ee3c5b12add513e1313c78a9f6054b52e1a"
+            "url": "https://downloads.sourceforge.net/project/sbcl/sbcl/2.2.10/sbcl-2.2.10-x86-64-windows-binary.msi",
+            "hash": "e3e5c9e205309076436ccdc3c8739eb7c0364d7cbfeeae7e0d41e2f7b8b82d23"
         }
     },
     "extract_dir": "PFiles\\Steel Bank Common Lisp",

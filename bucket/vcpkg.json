@@ -1,11 +1,11 @@
 {
-    "version": "2022.06.16.1",
+    "version": "2022.11.14",
     "description": "C/C++ dependency manager from Microsoft For all platforms, buildsystems, and workflows",
     "homepage": "https://vcpkg.io/",
     "license": "MIT",
-    "url": "https://github.com/microsoft/vcpkg/archive/refs/tags/2022.06.16.1.zip",
-    "hash": "f1e31cb633360b6f3ff3e2ef6df84d18d8645b1f5c5b9df31dc95fd4f8ff1d1d",
-    "extract_dir": "vcpkg-2022.06.16.1",
+    "url": "https://github.com/microsoft/vcpkg/archive/refs/tags/2022.11.14.zip",
+    "hash": "5ce4e88778bf3478d66dedf5215b7b1a35d52f71082e7f4ca22c2f0ebfa15626",
+    "extract_dir": "vcpkg-2022.11.14",
     "installer": {
         "file": "bootstrap-vcpkg.bat",
         "keep": true
@@ -16,8 +16,10 @@
         "script": "vcpkg integrate remove"
     },
     "persist": [
+        "buildtrees",
         "downloads",
-        "installed"
+        "installed",
+        "packages"
     ],
     "checkver": {
         "github": "https://github.com/microsoft/vcpkg/"

@@ -1,12 +1,12 @@
 {
-    "version": "0.38.3",
+    "version": "0.42.2",
     "description": "A pluggable linter and fixer to enforce Protocol Buffer style and conventions",
     "homepage": "https://github.com/yoheimuta/protolint",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yoheimuta/protolint/releases/download/v0.38.3/protolint_0.38.3_Windows_x86_64.tar.gz",
-            "hash": "5905023efdc580b6cf206d7af03a2b27b6276899d18ad08f7bc340301bfdd1ec"
+            "url": "https://github.com/yoheimuta/protolint/releases/download/v0.42.2/protolint_0.42.2_Windows_x86_64.tar.gz",
+            "hash": "d61816e5f19ee9625caa14a4cbfa7c7bc9287cbe6b7f9a0f753b7944a989b791"
         }
     },
     "bin": [

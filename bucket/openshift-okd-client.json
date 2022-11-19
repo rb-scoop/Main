@@ -1,12 +1,12 @@
 {
-    "version": "4.10.0-0.okd-2022-07-09-073606",
+    "version": "4.11.0-0.okd-2022-11-19-050030",
     "description": "OKD is the community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.",
     "homepage": "https://okd.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openshift/okd/releases/download/4.10.0-0.okd-2022-07-09-073606/openshift-client-windows-4.10.0-0.okd-2022-07-09-073606.zip",
-            "hash": "4c3ff00782e534c9bb4757828d8152b47c5061ba147270e07979430dbec69a33"
+            "url": "https://github.com/openshift/okd/releases/download/4.11.0-0.okd-2022-11-19-050030/openshift-client-windows-4.11.0-0.okd-2022-11-19-050030.zip",
+            "hash": "b660563bff934dba7f81e36d82c1e2f464a1f34858aa3efa206154a47967308f"
         }
     },
     "bin": "oc.exe",

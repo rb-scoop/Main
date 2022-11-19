@@ -1,12 +1,12 @@
 {
-    "version": "1.24.3",
+    "version": "1.25.4",
     "description": "Kubernetes node agent",
     "homepage": "https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://dl.k8s.io/v1.24.3/bin/windows/amd64/kubelet.exe",
-            "hash": "25a9fad7ab4c0e30081686fa12045a1fa6caa130151a8eeb8f24a5608374580d"
+            "url": "https://dl.k8s.io/v1.25.4/bin/windows/amd64/kubelet.exe",
+            "hash": "85735cbb5f100234618675b02f757e4b3363c35bfb43cd90c2dc63a461106b23"
         }
     },
     "bin": "kubelet.exe",

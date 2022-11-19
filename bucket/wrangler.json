@@ -1,12 +1,12 @@
 {
-    "version": "1.19.12",
+    "version": "1.20.0",
     "description": "Cloudflare Workers project manager",
     "homepage": "https://developers.cloudflare.com/workers/tooling/wrangler",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cloudflare/wrangler/releases/download/v1.19.12/wrangler-v1.19.12-x86_64-pc-windows-msvc.tar.gz",
-            "hash": "4d5bc494bae4523fe0091a17e4006655b0a5af00dec2829fe58339794bebc6a2"
+            "url": "https://github.com/cloudflare/wrangler/releases/download/v1.20.0/wrangler-v1.20.0-x86_64-pc-windows-msvc.tar.gz",
+            "hash": "88c5b08dd9fc2433d84fb2d53da59f1f406490028bd39ca9ba7b6b28020adfda"
         }
     },
     "extract_dir": "dist",

@@ -1,5 +1,5 @@
 {
-    "version": "2.360",
+    "version": "2.378",
     "description": "An automation server which enables developers around the world to reliably build, test, and deploy their software.",
     "homepage": "https://www.jenkins.io",
     "license": "MIT",
@@ -7,8 +7,8 @@
         "Java 8": "java/oraclejre8",
         "Java 11": "java/openjdk11"
     },
-    "url": "https://get.jenkins.io/war/2.360/jenkins.war#/jenkins.jar",
-    "hash": "4a73119d0237df66ec21f33cbd5fb311bdf209ef7286024b0275d99e0b96c699",
+    "url": "https://get.jenkins.io/war/2.378/jenkins.war#/jenkins.jar",
+    "hash": "67da6fc2ca197160d052191fea7bde72ac68b099b067bcd4551461b8c44be6de",
     "bin": "jenkins.jar",
     "checkver": {
         "url": "https://www.jenkins.io/changelog/rss.xml",
